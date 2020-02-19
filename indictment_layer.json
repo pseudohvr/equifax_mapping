@@ -1,0 +1,69 @@
+{
+  "description": "All techniques included within the 2020 Equifax indictment of Chinese PLA members.",
+  "version": "1.0",
+  "name": "Equifax Indictment",
+  "domain": "mitre-enterprise",
+  "techniques": [
+    {
+      "color": "#3BCEAF",
+      "comment": "Exploited the Apache Struts vulnerability",
+      "techniqueID": "T1190"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Upload to an Equifax web server multiple unauthorized web shells",
+      "techniqueID": "T1100"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Copied malicious web shells remotely",
+      "techniqueID": "T1105"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Located and used Equifax database service credentials",
+      "techniqueID": "T1078"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Attempted to hide the origin and location of internet traffic using remote servers",
+      "techniqueID": "T1090"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Deleted compressed files after exfiltrating the sensitive data",
+      "techniqueID": "T1107"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Configured settings on at least one of the leased servers to wipe log files",
+      "techniqueID": "T1070"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Interacted with Equifax's back-end databases issuing SQL commands",
+      "techniqueID": "T1213"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Employed a variety of encrypted login protocols, including RDP and Secure Shell",
+      "techniqueID": "T1043"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Compressed stolen data in temporary files",
+      "techniqueID": "T1002"
+    },
+    {
+      "color": "#3BCEAF",
+      "comment": "Exfiltrated data via HTTP commands",
+      "techniqueID": "T1048"
+    }
+  ],
+  "legendItems": [
+    {
+      "label": "2020 Equifax indictment of Chinese PLA members",
+      "color": "#3BCEAF"
+    }
+  ]
+}
