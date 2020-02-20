@@ -1,6 +1,6 @@
 {
   "description": "All techniques included within the 2020 Equifax indictment of Chinese PLA members.",
-  "version": "1.0",
+  "version": "2.2",
   "name": "Equifax Indictment",
   "domain": "mitre-enterprise",
   "techniques": [
